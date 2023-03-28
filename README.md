@@ -6,7 +6,8 @@ I am a starting Frontend developer, and having the best time learning it :stuck_
 
 - ![image](https://user-images.githubusercontent.com/109738127/228358359-646ea720-f435-4132-819f-fbd561de5a4a.png)
  I'm based in Moscow
-- You may contact me on
+- ![image](https://user-images.githubusercontent.com/109738127/228359469-b61bdf59-be33-47fb-a977-de4e87dddfdb.png)
+ You may contact me on
   + :e-mail: e-mail: exstu1@yandex.ru
   + ![image](https://user-images.githubusercontent.com/109738127/228357507-b0eca9c8-991a-498b-a445-8d0b5f7c2749.png)
  telegram: [@exstu1](https://t.me/exstu1)
