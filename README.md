@@ -20,7 +20,7 @@ I am a Frontend developer and I love it :stuck_out_tongue_winking_eye:
 
 ## :desktop_computer: My tech stack:
 
-![image](https://user-images.githubusercontent.com/109738127/228355802-a362f7aa-eaf2-442f-80da-cab5b0bd0ef0.png)   ![image](https://user-images.githubusercontent.com/109738127/228355830-fd9e7892-5c7b-4233-9e44-6a10b9a075cd.png)  ![image](https://user-images.githubusercontent.com/109738127/228355846-ba5620c9-75f7-4fdc-9143-3f87b1178442.png)  ![image](https://user-images.githubusercontent.com/109738127/228355857-9d9af9dd-822b-4d16-8c74-44aa85ec7ed4.png)  ![image](https://user-images.githubusercontent.com/109738127/228355876-80247251-511f-4a07-b99d-11667c29edb9.png)  ![image](https://user-images.githubusercontent.com/109738127/228355887-1647ba93-6711-4c48-9a4d-dc82553bab65.png)
+![image](https://user-images.githubusercontent.com/109738127/228355802-a362f7aa-eaf2-442f-80da-cab5b0bd0ef0.png) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![image](https://user-images.githubusercontent.com/109738127/228355830-fd9e7892-5c7b-4233-9e44-6a10b9a075cd.png)  ![image](https://user-images.githubusercontent.com/109738127/228355846-ba5620c9-75f7-4fdc-9143-3f87b1178442.png)  ![image](https://user-images.githubusercontent.com/109738127/228355857-9d9af9dd-822b-4d16-8c74-44aa85ec7ed4.png)  ![image](https://user-images.githubusercontent.com/109738127/228355876-80247251-511f-4a07-b99d-11667c29edb9.png)  ![image](https://user-images.githubusercontent.com/109738127/228355887-1647ba93-6711-4c48-9a4d-dc82553bab65.png)
 
 
 
