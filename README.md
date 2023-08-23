@@ -2,7 +2,7 @@
 
 ## ![image](https://user-images.githubusercontent.com/109738127/228359212-1867ade0-3354-4817-bac9-34fcc6ec89a1.png) About me :
 
-I am a starting Frontend developer, and having the best time learning it :stuck_out_tongue_winking_eye:
+I am a Frontend developer and I love it :stuck_out_tongue_winking_eye:
 
 - ![image](https://user-images.githubusercontent.com/109738127/228358359-646ea720-f435-4132-819f-fbd561de5a4a.png)
  I'm based in Moscow
@@ -16,7 +16,7 @@ I am a starting Frontend developer, and having the best time learning it :stuck_
 - ![image](https://user-images.githubusercontent.com/109738127/228358805-e8e8faca-b40b-4d03-96de-7657047d68bd.png)
  Sometimes learning some backend too :smiling_imp:
 - ![image](https://user-images.githubusercontent.com/109738127/228358666-6ff87925-5aad-4759-ad60-d94806fd873d.png)
- Currently mastering React so there will be lots of it here :nerd_face:
+
 
 ## :desktop_computer: My tech stack:
 
