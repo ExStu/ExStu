@@ -19,8 +19,13 @@ I am a Frontend developer and I love it :stuck_out_tongue_winking_eye:
 
 
 ## :desktop_computer: My tech stack:
+### Frontend: 
+![image](https://user-images.githubusercontent.com/109738127/228355802-a362f7aa-eaf2-442f-80da-cab5b0bd0ef0.png) ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white) ![image](https://user-images.githubusercontent.com/109738127/228355830-fd9e7892-5c7b-4233-9e44-6a10b9a075cd.png)  ![image](https://user-images.githubusercontent.com/109738127/228355846-ba5620c9-75f7-4fdc-9143-3f87b1178442.png)  ![image](https://user-images.githubusercontent.com/109738127/228355857-9d9af9dd-822b-4d16-8c74-44aa85ec7ed4.png)  ![image](https://user-images.githubusercontent.com/109738127/228355876-80247251-511f-4a07-b99d-11667c29edb9.png)  ![image](https://user-images.githubusercontent.com/109738127/228355887-1647ba93-6711-4c48-9a4d-dc82553bab65.png) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-![image](https://user-images.githubusercontent.com/109738127/228355802-a362f7aa-eaf2-442f-80da-cab5b0bd0ef0.png) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![image](https://user-images.githubusercontent.com/109738127/228355830-fd9e7892-5c7b-4233-9e44-6a10b9a075cd.png)  ![image](https://user-images.githubusercontent.com/109738127/228355846-ba5620c9-75f7-4fdc-9143-3f87b1178442.png)  ![image](https://user-images.githubusercontent.com/109738127/228355857-9d9af9dd-822b-4d16-8c74-44aa85ec7ed4.png)  ![image](https://user-images.githubusercontent.com/109738127/228355876-80247251-511f-4a07-b99d-11667c29edb9.png)  ![image](https://user-images.githubusercontent.com/109738127/228355887-1647ba93-6711-4c48-9a4d-dc82553bab65.png)
+### Backend: 
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  ![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)  ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+ 
 
 
 
