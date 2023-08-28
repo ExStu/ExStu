@@ -11,7 +11,7 @@ I am a Frontend developer and I love it :stuck_out_tongue_winking_eye:
   + :e-mail: e-mail: exstu1@yandex.ru
   + ![image](https://user-images.githubusercontent.com/109738127/228357507-b0eca9c8-991a-498b-a445-8d0b5f7c2749.png)
  telegram: [@exstu1](https://t.me/exstu1)
-  + ![image](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png?raw=true) whatsapp: +7 (966) 363-66-80
+  + whatsapp: +7 (966) 363-66-80
   + ![image](https://user-images.githubusercontent.com/109738127/228357381-91d793d8-8f2b-4b7f-b37b-e28eed4fc4d1.png)
  instagram: @exstu1
 - ![image](https://user-images.githubusercontent.com/109738127/228358805-e8e8faca-b40b-4d03-96de-7657047d68bd.png)
